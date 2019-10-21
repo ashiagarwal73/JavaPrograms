@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Problem2",
+            "request": "launch",
+            "mainClass": "Problem2",
+            "projectName": "java programs_da3f7760"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem3",
+            "request": "launch",
+            "mainClass": "Problem3",
+            "projectName": "java programs_da3f7760"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Facebook",
             "request": "launch",
             "mainClass": "Facebook",

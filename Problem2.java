@@ -1,4 +1,4 @@
-class Facebook{
+class Problem2{
     static int helper(String data){
         if(data.length()>1 && data.charAt(0)=='0'){
             return 0;

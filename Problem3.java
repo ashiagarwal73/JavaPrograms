@@ -1,5 +1,5 @@
 import java.util.*;
-class SumOfTwoNumberInArray{
+class Problem3{
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
@@ -10,18 +10,20 @@ class SumOfTwoNumberInArray{
         {
             arr[i]=sc.nextInt();
         }
-        int num;
-        num=sc.nextInt();
-        System.out.println(check(n,arr,num));
+        int sum;
+        sum=sc.nextInt();
+        System.out.println(check(n,arr,sum));
     }
     public static boolean check(int n,Integer arr[],int num)
     {
-        ArrayList<Integer> list=new ArrayList<>();
-        list.addAll(Arrays.asList(arr));
+        HashMap<Integer,Integer> hash=new HashMap<>();
+	for(int i=0;i<arr.length;i++){
+		hash.put(arr[i],arr[i]);	
+	}
         for(int i=0;i<n;i++)
         {
             Integer left=num-arr[i];
-            if(list.contains(left))
+            if(hash.containsKey(left))
             {
                 return true;
             }
