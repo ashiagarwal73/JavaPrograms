@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Problem2Dp",
+            "request": "launch",
+            "mainClass": "Problem2Dp",
+            "projectName": "java programs_da3f7760"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Problem2",
             "request": "launch",
             "mainClass": "Problem2",
