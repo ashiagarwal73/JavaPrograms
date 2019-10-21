@@ -30,3 +30,23 @@ Given two array A and B of length n find the number of indexes "k" where Sum(A[0
       Total possible values of k=2
       Answer=2
 </pre>
+## Problem 2:
+If a string is Encoded as follows-->
+<pre>
+'a'-->1
+'b'-->2
+ .
+ .
+ .
+ .
+'z'-->26
+</pre>
+Find the number of ways It can be decoded.
+For strings starting 0 should return 0
+#### Example 
+<pre>
+      Encoded string -->'12'
+      Number of ways to decode ==> 2 (as follows)
+      '12'-->'ab'
+      '12'-->'l'
+</pre>
