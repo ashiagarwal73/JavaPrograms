@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Facebook",
+            "request": "launch",
+            "mainClass": "Facebook",
+            "projectName": "java programs_da3f7760"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "java programs_da3f7760"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainHeapArray",
+            "request": "launch",
+            "mainClass": "MainHeapArray",
+            "projectName": "java programs_da3f7760"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainHeap",
+            "request": "launch",
+            "mainClass": "MainHeap",
+            "projectName": "java programs_da3f7760"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AmericanExpress",
+            "request": "launch",
+            "mainClass": "AmericanExpress"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
