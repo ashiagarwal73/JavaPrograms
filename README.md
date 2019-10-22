@@ -50,3 +50,8 @@ For strings starting 0 should return 0
       '12'-->'ab'
       '12'-->'l'
 </pre>
+## Problem 3:
+Find a pair in an Array with a given Sum exists or not
+
+## Problem 4:
+Find the number of subsets in an array that add up to given Sum
