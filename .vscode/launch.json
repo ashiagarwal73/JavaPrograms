@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LoanSomeCarBuyer",
+            "request": "launch",
+            "mainClass": "LoanSomeCarBuyer",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Problem4",
             "request": "launch",
             "mainClass": "Problem4",

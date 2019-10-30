@@ -1,4 +1,5 @@
 class Problem1{
+    
     public static int solution(int[] A, int[] B){
         int sumOfArrayA=0;
         int sumOfArrayB=0;
