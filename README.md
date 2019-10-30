@@ -59,3 +59,8 @@ Find the number of subsets in an array that add up to given Sum
 ## Problem 5:
 
 <a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem5_Question.pdf">Lone Some Car Buyer
+      
+
+## Problem 6:
+
+<a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem6_Question.pdf">Events Planning     
