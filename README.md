@@ -55,3 +55,7 @@ Find a pair in an Array with a given Sum exists or not
 
 ## Problem 4:
 Find the number of subsets in an array that add up to given Sum
+
+## Problem 5:
+
+<a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem5_Question.pdf">Lone Some Car Buyer
