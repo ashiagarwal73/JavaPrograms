@@ -63,4 +63,10 @@ Find the number of subsets in an array that add up to given Sum
 
 ## Problem 6:
 
-<a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem6_Question.pdf">Events Planning     
+<a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem6_Question.pdf">Events Planning   
+     
+
+## Problem 7:
+
+<a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem7_Question.pdf">Mirrored Palindrome 
+      
