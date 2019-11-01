@@ -70,3 +70,7 @@ Find the number of subsets in an array that add up to given Sum
 
 <a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem7_Question.pdf">Mirrored Palindrome 
       
+
+## Problem 8:
+
+<a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem8_Question.pdf">Palindrome 

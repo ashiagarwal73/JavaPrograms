@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Pal",
+            "request": "launch",
+            "mainClass": "Pal",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MirroredPalindrome",
             "request": "launch",
             "mainClass": "MirroredPalindrome",
