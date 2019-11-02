@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HardSeq",
+            "request": "launch",
+            "mainClass": "HardSeq",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Pal",
             "request": "launch",
             "mainClass": "Pal",
