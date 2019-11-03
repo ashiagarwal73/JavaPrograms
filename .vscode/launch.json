@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PhysicalExcercise2",
+            "request": "launch",
+            "mainClass": "PhysicalExcercise2",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PhysicalExcercise",
+            "request": "launch",
+            "mainClass": "PhysicalExcercise",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HardSeq",
             "request": "launch",
             "mainClass": "HardSeq",

@@ -82,3 +82,7 @@ Find the number of subsets in an array that add up to given Sum
 ## Problem 10:
 
 <a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem10_Question.txt">Hard Sequence
+
+## Problem 11:
+
+<a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem11_Question.pdf">Physical Excercise
