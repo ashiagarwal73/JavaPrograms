@@ -90,3 +90,10 @@ Find the number of subsets in an array that add up to given Sum
 ## Problem 12:
 
 Given an array of positive numbers, find the maximum sum of a subsequence with the constraint that no 2 numbers in the sequence should be adjacent in the array. 
+
+## Problem 13:
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+
+## Problem 14:
+Given an integer array nums, find the contiguous subarray within an array (containing at least one number) which has the largest product.

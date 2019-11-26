@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem13",
+            "request": "launch",
+            "mainClass": "Problem13",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LongestCommonSubSeq",
             "request": "launch",
             "mainClass": "LongestCommonSubSeq",
