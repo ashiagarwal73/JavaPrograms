@@ -86,3 +86,7 @@ Find the number of subsets in an array that add up to given Sum
 ## Problem 11:
 
 <a href="https://github.com/ashiagarwal73/JavaPrograms/blob/master/Problem11_Question.pdf">Physical Excercise
+
+## Problem 12:
+
+Given an array of positive numbers, find the maximum sum of a subsequence with the constraint that no 2 numbers in the sequence should be adjacent in the array. 

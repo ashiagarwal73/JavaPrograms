@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LongestCommonSubSeq",
+            "request": "launch",
+            "mainClass": "LongestCommonSubSeq",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestPalindrome",
+            "request": "launch",
+            "mainClass": "LongestPalindrome",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "MainClass",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NCR",
+            "request": "launch",
+            "mainClass": "NCR",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxAdj",
+            "request": "launch",
+            "mainClass": "MaxAdj",
+            "projectName": "JavaPrograms_1f08cbce"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PhysicalExcercise2",
             "request": "launch",
             "mainClass": "PhysicalExcercise2",
